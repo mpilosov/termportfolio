@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>algebra on Portfolio | MM</title>
-    <link>https://art.mathematicalmichael.com/tags/algebra/</link>
+    <link>https://mpilosov.github.io/termportfolio/tags/algebra/</link>
     <description>Recent content in algebra on Portfolio | MM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://art.mathematicalmichael.com/tags/algebra/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mpilosov.github.io/termportfolio/tags/algebra/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>first post</title>
-      <link>https://art.mathematicalmichael.com/post/first/</link>
+      <link>https://mpilosov.github.io/termportfolio/post/first/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://art.mathematicalmichael.com/post/first/</guid>
+      <guid>https://mpilosov.github.io/termportfolio/post/first/</guid>
       <description>Testpage \( \int_a^b \)
 $ \int x dx = \frac{x^2}{2} + C $
 $$ s = .00147668, ; $$ $$ | \lbrace \theta \rbrace | = 133, $$ $$ | \lbrace r \rbrace | = 20,$$ $$ r_0 = 0.2500,$$ $$ R = 1.00, $$ $$r \sim \beta(1.004, 1.471), $$
