@@ -1,4 +1,4 @@
-baseURL = "https://art.mathematicalmichael.com/"
+baseURL = "https://mpilosov.github.io/termportfolio"
 title = "Portfolio | MM"
  author = "Mathematical Michael"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
