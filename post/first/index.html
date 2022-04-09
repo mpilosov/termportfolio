@@ -479,7 +479,7 @@ body{background:#f1f1f1}body #terminal{color:#424242}body #user{color:#10a778}bo
 
         
 .navFull {
-    #background-color: #353535;
+    background-color: #353535;
     font-family: "Courier New";
     font-size: 17px;
     display: inline;
@@ -512,19 +512,14 @@ body{background:#f1f1f1}body #terminal{color:#424242}body #user{color:#10a778}bo
 </head><body>
     
         <script>
-    window.MathJax = {
-        CommonHTML: { linebreaks: { automatic: true } },
+    MathJax = {
         tex: {
-            inlineMath: [ ['$', '$'], ['\\(','\\)'] ],
-            displayMath: [ ['$$','$$'], ['\\[', '\\]'] ],
-            processEscapes: false,
-            noUndefined: { attributes: { mathcolor: 'red', mathbackground: '#FFEEEE', mathsize: '90%' } } },
-        messageStyle: 'none'
-};
+            inlineMath: [['$', '$'], ['\\(', '\\)']]
+        }
+    };
 </script>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-svg.js"></script>
 
+<script id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-svg.js"></script>
     
 <div id="content">
     
@@ -610,7 +605,8 @@ body{background:#f1f1f1}body #terminal{color:#424242}body #user{color:#10a778}bo
 
         
         <span class="navCredits">
-            Copyright 2022 <a href="https://mathematicalmichael.com" target="_blank" rel="noopener">Mathematical Michael</a>
+            Hugo theme created by
+            <a href="https://github.com/Yukuro/hugo-theme-shell" target="_blank" rel="noopener">Yukuro</a>
         </span>
 </span>
 
